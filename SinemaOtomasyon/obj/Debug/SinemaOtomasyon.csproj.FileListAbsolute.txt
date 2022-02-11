@@ -1,0 +1,15 @@
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csprojAssemblyReference.cache
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.cache
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Anamenu.resources
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Salonlarigoruntule.resources
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.FilmMenu.resources
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.FilmEkle.resources
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Seanslar.resources
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.SeansEkle.resources
+C:\Users\Onur\Desktop\ODEV2\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.BiletKes.resources
